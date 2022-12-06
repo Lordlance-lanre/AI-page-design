@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "damini ogulu",
+      "email": "daminiogulu@gmail.com",
+      "phoneNumber": "09087655432"
+    },
+    {
+      "id": 2,
+      "name": "ololademi asake",
+      "email": "ololademiasake@gmail.com",
+      "phoneNumber": "07087645480"
+    },
+    {
+      "id": 3,
+      "name": "adeleke david",
+      "email": "davidadeleke@gmail.com",
+      "phoneNumber": "08155554321"
+    },
+    {
+      "id": 4,
+      "name": "damini ogulu",
+      "email": "aladeyemi@gmail.com",
+      "phoneNumber": "09087655432"
+    }
+  ]
+}
